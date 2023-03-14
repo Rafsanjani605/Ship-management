@@ -115,6 +115,14 @@ padding-left: 10px;
   position: absolute;
 }
 
+#straightline{
+  height: 170px;
+}
+
+#lineimg2{
+  padding-top: 39px;
+}
+
 .contents{
   margin-left: 19px;
   margin-top: 12px;
@@ -129,6 +137,11 @@ padding-left: 10px;
   border-radius: 12px;
 }
 
+#content-users{
+  margin-top: 12px;
+  
+}
+
 .content-users h2{
   font-size: 12px;
   color: #F0F2F6;
@@ -136,6 +149,12 @@ padding-left: 10px;
 } 
 .content-users h3{
   color: #6D7DA0;
+  padding-left: 18px;
+  font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+padding-bottom: 10px;
 }
 
 
@@ -147,10 +166,6 @@ padding-left: 10px;
 
 /* dashboaard style */
 .dashboard{
-
-  
-    
-    
     
 
 }
@@ -627,6 +642,8 @@ padding-left: 445px;
 
 .beakdown-cranes h3{
   padding-bottom: 26px ;
+  font-weight: 600;
+font-size: 12px;
 }
 
 .Breakdown-inputs input{
@@ -658,7 +675,7 @@ padding-left: 445px;
 }
 
 #breakdown-2ndinput{
-  margin-top: 30px;
+  margin-top: 19px;
   margin-left: 101px;
   background-image: url('/images/clock-black.svg');
   background-position: right;
@@ -693,10 +710,21 @@ padding-left: 445px;
   
 }
 
+
+
 /* numbers style */
 
 .numbers{
-  
+  display: flex;
+  justify-content: space-between;
+  padding-left:71px ;
+  padding-right: 43px;
+}
+.numbers h1{
+  font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+
 }
 
 
