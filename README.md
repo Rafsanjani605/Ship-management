@@ -1,13 +1,6 @@
-This project is a ship management admin dashboard that allows users to manage and track ships. The dashboard is built using HTML, CSS, and JavaScript for the front-end.
+This project is a ship management admin dashboard that allows users to manage and track ships. The dashboard is built using HTML, CSS, JavaScript and ApexCharts for the front-end.
 
-This project was built using the following technologies and libraries:
-
-HTML
-CSS
-JavaScript
-ApexCharts
-ApexCharts is a modern JavaScript charting library that was used to create the visual representations of ship statuses in this project. It provides a wide range of chart types and customization options, making it a versatile tool for data visualization. In this project, ApexCharts was used to create interactive and responsive charts that display the current status of each ship in the system. 
-
+ApexCharts is a modern JavaScript charting library that was used to create the visual representations of ship statuses in this project. It provides a wide range of chart types and customization options, making it a versatile tool for data visualization. 
 You can find a live demo of this project https://ship-managementadmin.netlify.app/
 
 ![Capture1](https://user-images.githubusercontent.com/80273287/226101795-dc099603-978a-4206-835d-cea5e3aab125.PNG)
