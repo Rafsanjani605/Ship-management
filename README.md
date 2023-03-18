@@ -4,6 +4,7 @@ Technologies Used:
 HTML
 CSS
 JavaScript
+You can find a live demo of this project https://ship-managementadmin.netlify.app/
 
 ![Capture1](https://user-images.githubusercontent.com/80273287/226101795-dc099603-978a-4206-835d-cea5e3aab125.PNG)
 ![Capture2](https://user-images.githubusercontent.com/80273287/226101804-adc97e5b-a90d-4079-b3d3-5ef15737e3ae.PNG)
